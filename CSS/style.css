@@ -288,6 +288,16 @@ header .border{
      
  }
 
+
+.new_bar ul li a:hover {
+   
+    color: #000 !important;
+    background: #FBAB44;
+     
+ }
+
+
+
  .myNav_bar ul li a:hover {
    
     color: #000 !important;
